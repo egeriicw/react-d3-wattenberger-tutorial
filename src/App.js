@@ -1,10 +1,10 @@
-import Circle from './components/Circle';
+import Circles from './components/Circles';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-    <Circle></Circle>
+    <Circles></Circles>
     </div>
   );
 }
